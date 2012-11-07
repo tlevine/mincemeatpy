@@ -58,7 +58,7 @@ results = s.run_server(password="changeme")
 print results
 ```
 
-Execute this script on the server:
+You need to start the server before the clients. Execute this script on the server:
 
 ```bash
 python example.py
